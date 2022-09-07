@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".header {\n  background: #9dcd5a\n}\n\n.top-bar {\n  background: #9dcd5a\n}\n\n.product__short-stock {\n\ndisplay: none;\n\n}",
   "html_head": "",
   "html_body": ""
 }
