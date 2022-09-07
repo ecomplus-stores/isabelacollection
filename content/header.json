@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Utilize o código PRIMEIRA5 para ganhar 5% de desconto em sua primeira compra",
+    "link": "/promotion",
+    "background": "#305c30",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
@@ -19,9 +21,11 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
-    "full_width": false
+    "random": 11,
+    "full_width": true
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
