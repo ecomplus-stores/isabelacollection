@@ -1,25 +1,25 @@
 {
-  "store_id": 31341,
-  "name": "isabelacollection",
   "domain": "isabelacollection.netlify.app",
-  "short_name": "isabelacollection",
-  "description": "isabelacollection",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#81e258",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "united",
+    "custom": "ecom-beauty"
   },
+  "bg_color": "#7dbc36",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Isabela Collection",
+  "short_name": "Isabela Collection",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "font_family": "Open Sans",
+  "favicon": "/img/uploads/logo.png",
+  "icons_font": "feather-icons",
   "country_code": "BR",
-  "icons_font": "_",
-  "font_family": "_"
+  "secondary_color": "#759b5d",
+  "icon": "/img/uploads/impressao-marca.png",
+  "store_id": 31341,
+  "description": "Somos uma Loja Online que busca tendência e estilo, para você!",
+  "large_icon": "/img/uploads/logo.png"
 }
