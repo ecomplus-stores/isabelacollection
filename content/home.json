@@ -43,11 +43,6 @@
       "sort": "lowest_price"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "sales"
-    },
-    {
       "type": "page-title",
       "title": "",
       "description": ""
