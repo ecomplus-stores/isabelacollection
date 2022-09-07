@@ -1,12 +1,12 @@
 {
   "domain": "isabelacollection.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#81e258",
+  "primary_color": "#909e83",
   "theme": {
     "bootswatch": "_",
-    "custom": "ecom-beauty"
+    "custom": "_"
   },
-  "bg_color": "#7dbc36",
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
   "name": "Isabela Collection",
   "short_name": "Isabela Collection",
@@ -17,9 +17,9 @@
   "favicon": "/img/uploads/logo.png",
   "icons_font": "feather-icons",
   "country_code": "BR",
-  "secondary_color": "#759b5d",
+  "secondary_color": "#02471e",
   "icon": "/img/uploads/impressao-marca.png",
   "store_id": 31341,
-  "description": "Somos uma Loja Online que busca tendência e estilo, para você!",
+  "description": "Entre tantas atividades desempenhadas, moda foi a busca de um sonho! E essa marca tem o propósito de vestir você com o conforto, qualidade e estilo, te fazendo se sentir bem onde estiver!\n",
   "large_icon": "/img/uploads/logo.png"
 }
