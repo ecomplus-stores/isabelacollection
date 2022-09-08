@@ -1,10 +1,10 @@
 {
   "domain": "isabelacollection.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#909e83",
+  "primary_color": "#335012",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/logo.png",
   "icons_font": "feather-icons",
   "country_code": "BR",
-  "secondary_color": "#02471e",
+  "secondary_color": "#074d27",
   "icon": "/img/uploads/impressao-marca.png",
   "store_id": 31341,
   "description": "Entre tantas atividades desempenhadas, moda foi a busca de um sonho! E essa marca tem o propósito de vestir você com o conforto, qualidade e estilo, te fazendo se sentir bem onde estiver!\n",
