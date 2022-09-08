@@ -28,24 +28,19 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "61e96c650c7c72722518bb55:categories:Todos os Produtos:/todos-os-produtos",
-      "sort": "offers",
+      "sort": null,
       "title": "",
       "headless": false,
-      "limit": 20,
+      "limit": 15,
       "page": 1
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 17,
+      "limit": 15,
       "page": 1,
       "collection_id": "61e1dafd0c7c7272250ab45f:categories:MegaLiquida:/ofertas",
       "sort": "lowest_price"
-    },
-    {
-      "type": "page-title",
-      "title": "",
-      "description": ""
     }
   ]
 }
