@@ -1,5 +1,5 @@
 {
-  "css": ".product-card section {\n  border: 2px solid #ccc;\n  padding: 10px\n}\n.product__short-stock {\ndisplay: none !important;\n}",
+  "css": ".product-card section {\n  border: 2px solid #ccc;\n  padding: 10px\n}\n.product__short-stock {\ndisplay: none !important;\n}\n.top-bar {\n    background: #9dcd5a;\n}\n.header {\n    background-color: #9dcd5a;\n}\n.top-bar__nav a {\n    color: #074d27;\n}",
   "html_head": "",
   "html_body": ""
 }
