@@ -1,6 +1,5 @@
 {
   "domain": "www.isabelacollection.com.br",
-  "repository": "ecomplus-stores/isabelacollection",
   "currency_symbol": "R$",
   "primary_color": "#335012",
   "theme": {
@@ -8,7 +7,8 @@
     "custom": "ecom-beauty"
   },
   "bg_color": "#92a767",
-  "logo": "/img/uploads/logo.png",
+  "repository": "ecomplus-stores/isabelacollection",
+  "logo": "/img/uploads/logo-branca.png",
   "name": "Isabela Collection",
   "short_name": "Isabela Collection",
   "lang": "pt_br",
