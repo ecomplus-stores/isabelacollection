@@ -1,5 +1,6 @@
 {
-  "domain": "isabelacollection.netlify.app",
+  "domain": "www.isabelacollection.com.br",
+  "repository": "ecomplus-stores/isabelacollection",
   "currency_symbol": "R$",
   "primary_color": "#335012",
   "theme": {
