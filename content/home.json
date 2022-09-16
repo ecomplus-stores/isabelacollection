@@ -8,6 +8,11 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2022-09-14T03:00:00.000Z",
+          "end": "2022-09-19T03:00:00.000Z",
+          "img": "/img/uploads/banner-dia-do-cliente.png"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-novo-site.png",
@@ -18,11 +23,6 @@
           "end": "",
           "img": "/img/uploads/banner-malinha.png",
           "link": "https://isabelacollection.netlify.app/pages/malinha-collection"
-        },
-        {
-          "start": "2022-09-14T03:00:00.000Z",
-          "end": "2022-09-17T03:00:00.000Z",
-          "img": "/img/uploads/banner-dia-do-cliente.png"
         }
       ]
     },
