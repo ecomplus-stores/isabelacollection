@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/esquenta-black.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-novo-site.png",
           "link": "https://www.isabelacollection.com.br/"
         },
@@ -18,11 +23,6 @@
           "end": "",
           "img": "/img/uploads/banner-malinha.png",
           "link": "https://isabelacollection.netlify.app/pages/malinha-collection"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/esquenta-black.png"
         }
       ]
     },
