@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.26abc3a024957e4f78269475e011e36b.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.998766634d44aa5c1d0790de696f513c.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.cfd99f6c2faac62d1ea86c0847c55121.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.61469200885d1262a74b595181f3fcbf.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.54680efd5cd6c7aae15a852fc23485ae.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Isabela Collection",
+  "short_name": "Isabela Collection",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Entre tantas atividades desempenhadas, moda foi a busca de um sonho! E essa marca tem o propósito de vestir você com o conforto, qualidade e estilo, te fazendo se sentir bem onde estiver!\n",
+  "background_color": "#92a767",
+  "theme_color": "#335012"
+}
