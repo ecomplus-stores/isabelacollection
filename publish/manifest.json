@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.27515affc4646412cf043848c8c3f64e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.2a4924efed1398cc2b1a74ff74f4d456.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.d0bf21fa122251acfd8c3aa9b85e2928.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.15c020aecb880e9d793739648ea900af.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.a990543e377f40bac7f556146f1a32dd.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Isabela Collection",
+  "short_name": "Isabela Collection",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A loja oferece peças de qualidade com elegância a um preço justo para todos, sem se esquecer do básico, mas sempre amando as tendências e cores. A missão da loja é levar autoconfiança para todas as mulheres em seus projetos de vida e sonhos, difundindo a ideia de que se vestir deve ser natural e divertido. ",
+  "background_color": "#92a767",
+  "theme_color": "#335012"
+}
